@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antoniovbraz" alt="antoniovbraz" /></a> </p>
 
-- 🌱 I’m currently learning **Ruby on Rails, SQL, Python, JavaScript, C and React**
+- 🌱 I’m currently learning **Java, Ruby on Rails, SQL, Python, JavaScript, C and React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
